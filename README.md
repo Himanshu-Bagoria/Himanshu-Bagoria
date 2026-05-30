@@ -20,9 +20,7 @@ Python Developer | ML Engineer | Aspiring Data Scientist
 
 📍 Delhi NCR, India  
 📧 bagoriahimanshu2608@gmail.com
-🔗 https://portfolio-himanshu-rh0b.onrender.com
 ---
-
 # 🌐 Connect With Me
 
 <p align="left">
